@@ -6,7 +6,7 @@ type Props = {
 };
 export const Carousel = ({ itemsList, mode }: Props) => {
   const [navigate, useNavigate] = useState(0);
-  const [intervalId, setIntervalId] = useState<number | null>(null);
+  const [intervalId, setIntervalId] = useState<NodeJS.Timeout | null>(null);
 
   useEffect(() => {
     const id = setInterval(() => {

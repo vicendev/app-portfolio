@@ -6,6 +6,8 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro check && astro build",
+    "deploy:dev": "vercel deploy",
+    "deploy:prod": "vercel --prod",
     "preview": "astro preview",
     "astro": "astro"
   },

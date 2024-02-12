@@ -16,7 +16,6 @@ export const Card = ({
   link,
   icon,
 }: Props) => {
-  console.log(lastItem)
   return (
     <div className="w-auto">
       <div className="px-6 py-6">
