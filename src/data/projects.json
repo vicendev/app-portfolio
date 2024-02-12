@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Migrante App",
+    "github": {
+      "front": "https://github.com/vicendev/apane-migrante-v0.8.0",
+      "back": "https://github.com/vicendev/svc-migrante"
+    },
+    "link": "",
+    "lastUpdate": "28/07/2022",
+    "description": "Aplicación dedicada a proveer información a personas migrantes con opcion a idioma kreyol, para gestionar tramites migratorios.",
+    "video": "https://drive.google.com/file/d/1PMHu5IFgdLfB4eTW-Hc-TEY_ar7_AmnD/preview",
+    "images": [],
+    "techs": ["Angular", "Nodejs", "Express", "MongoDB", "Bootstrap"]
+  },
+  {
+    "title": "AIPTA Web",
+    "github": {
+      "front": "",
+      "back": "https://github.com/vicendev/AIPTAWeb"
+    },
+    "link": "",
+    "lastUpdate": "21/12/2019",
+    "description": "Aplicación web para una asociación internacional de psicoanalisis a través del arte (aipta). posee información de la institución, y al tener django como ORM tiene la posibilidad de mantener actualizado el contenido de ciertas páginas.",
+    "video": "https://www.youtube.com/embed/SaWhnw_SgWs",
+    "images": [],
+    "techs": ["Python", "Django 2.2", "Bootstrap", "PostgreSQL"]
+  },
+  {
+    "title": "Auto Azure API Graph",
+    "github": {
+      "front": "",
+      "back": "https://github.com/vicendev/automation-api-graph"
+    },
+    "link": "",
+    "lastUpdate": "23/01/2023",
+    "description": "Proyecto back, orientado a crear automaticamente recursos en Azure AD, este funciona junto con Jenkins para que se pueda ejecutar con seguridad gracias a los secrets que provee. estos valores secrets, pasan por un script bash, que se encarga de rellenar los valores necesarios como inputs.",
+    "video": "",
+    "images": [],
+    "techs": ["Javascript ES6", "Azure API Graph", "Jenkins", "NodeJS", "Bash Script"]
+  },
+  {
+    "title": "Blog Web - React",
+    "github": {
+      "front": "https://github.com/vicendev/app-blogweb",
+      "back": ""
+    },
+    "link": "",
+    "lastUpdate": "26/04/2021",
+    "description": "Proyecto para practicar con React y Redux, es un blog con CRUD y manejo de estados, con autenticación y base de datos mediante Google Firebase.",
+    "video": "https://drive.google.com/file/d/10pthYXo1Xj2RP7VzeKP2Lxq-QZdXj8oq/preview",
+    "images": [],
+    "techs": ["Javascript ES6", "React", "Redux", "Firebase", "SCSS", "Bulma CSS"]
+  },
+  {
+    "title": "App Invitación Matrimonio",
+    "github": {
+      "front": "https://github.com/vicendev/app-marriage-invitation",
+      "back": ""
+    },
+    "link": "https://invitacion-a-nuestro-matrimonio.vercel.app/",
+    "lastUpdate": "04/08/2023",
+    "description": "Proyecto para invitación web de mi matrimonio, un menú dedicado a información para los invitados, un formulario para la invitación y un dashboard para la gestión de los invitados. Frontend desarrollado con Qwik para practicar nuevas tecnologias, y Tailwind CSS. En backend esta utiliza Supabase.",
+    "video": "https://drive.google.com/file/d/1loZi5JAULP2RojG0Utq6uVtzctTj0z3w/preview",
+    "images": [],
+    "techs": ["TypeScript", "Qwik", "Tailwind CSS", "Supabase"]
+  },
+  {
+    "title": "Service Bank Data Extractor",
+    "github": {
+      "front": "",
+      "back": "https://github.com/vicendev/ms-bankdataextractor"
+    },
+    "link": "",
+    "lastUpdate": "23/01/2023",
+    "description": "Proyecto back, orientado a automatizar las finanzas del hogar, tomando un archivo csv y transformarlo en un json válido, con la finalidad de ingresar los datos en un excel de google spreadsheet, según su ultima fecha y monto que coincida con los datos del archivo csv.",
+    "video": "",
+    "images": [],
+    "techs": ["NestJS", "TypeScript", "Google API"]
+  }
+]

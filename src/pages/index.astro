@@ -1,0 +1,35 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Banner from '../components/Banner.astro';
+import Footer from '../components/Footer.astro';
+import SectionLaboralExperience from '../components/sections/SectionLaboralExperience.astro';
+import SectionProject from '../components/sections/SectionProject.astro';
+import SectionCertifications from '../components/sections/SectionCertifications.astro';
+---
+
+<Layout title="Portafolio VAMA">
+	<main class="container grid place-items-center h-screen w-max mx-auto">
+		<div class="grid grid-cols-1">
+			<Banner/>
+		</div>
+
+		<hr class="w-52 h-1 mx-auto my-6 bg-gray-100 border-0 rounded dark:bg-gray-700">
+		<div class="grid grid-cols-1">
+			<SectionLaboralExperience/>
+		</div>
+
+		<hr class="w-52 h-1 mx-auto mt-10 bg-gray-100 border-0 rounded dark:bg-gray-700">
+		<div class="grid grid-cols-1 mt-10">
+			<SectionProject />
+		</div>
+
+		<hr class="w-52 h-1 mx-auto mt-10 bg-gray-100 border-0 rounded dark:bg-gray-700">
+		<div class="grid grid-cols-1 mt-10 w-extend-content">
+			<SectionCertifications />
+		</div>
+
+		<div class="grid grid-cols-1 w-full-content mt-10">
+			<Footer/>
+		</div>
+	</main>
+</Layout>

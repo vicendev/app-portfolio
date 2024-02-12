@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Azure Fundamentals",
+    "entity": "Microsoft",
+    "certificationDate": "11/01/2023",
+    "link": "https://drive.google.com/file/d/1MZ2SHZKumkikUDrOYQS5FnMEjwKJiRKy/view",
+    "icon": "icon-[mdi--microsoft-windows]"
+  },
+  {
+    "title": "Scrum Foundation Professional Certificate (SFPC)",
+    "entity": "CertiProf",
+    "certificationDate": "16/07/2020",
+    "link": "https://www.apollographql.com/tutorials/certifications/2ae34fa5-2127-4387-bac3-3adb9038e55a",
+    "icon": "icon-[mdi--certificate]"
+  },
+  {
+    "title": "Level A1 CEFR for languages",
+    "entity": "Open English",
+    "certificationDate": "19/07/2022",
+    "link": "https://drive.google.com/file/d/1yg_PyRNy6sbCdgILCAoblMZHxrQGeYyy/view",
+    "icon": "icon-[mdi--language]"
+  },
+  {
+    "title": "Graph Developer - Associate",
+    "entity": "Apllo GraphQL",
+    "certificationDate": "16/02/2023",
+    "link": "https://www.apollographql.com/tutorials/certifications/2ae34fa5-2127-4387-bac3-3adb9038e55a",
+    "icon": "icon-[mdi--graphql]"
+  },
+  {
+    "title": "Curso Principios SOLID & Clean-Code",
+    "entity": "Udemy",
+    "certificationDate": "10/07/2022",
+    "link": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-48b490a5-7950-4893-ba67-ac0b67474c83.pdf",
+    "icon": "icon-[mdi--certificate]"
+  },
+  {
+    "title": "Curso de Docker",
+    "entity": "Platzi",
+    "certificationDate": "18/01/2022",
+    "link": "https://platzi.com/p/wisekraden/curso/2066-docker/diploma/detalle/",
+    "icon": "icon-[mdi--certificate]"
+  },
+  {
+    "title": "Curso de TypeScript",
+    "entity": "Udemy",
+    "certificationDate": "02/10/2021",
+    "link": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-f5df33c6-9cd4-46f8-94ff-f26bdb614118.pdf",
+    "icon": "icon-[mdi--certificate]"
+  },
+  {
+    "title": "Curso de GIT",
+    "entity": "Udemy",
+    "certificationDate": "01/09/2020",
+    "link": "https://www.udemy.com/certificate/UC-69d494c0-116e-4ac9-ae15-0cd4c967df4d/",
+    "icon": "icon-[mdi--certificate]"
+  },
+  {
+    "title": "Curso Python & Django Fullstack",
+    "entity": "Udemy",
+    "certificationDate": "30/07/2019",
+    "link": "https://www.udemy.com/certificate/UC-XF2XYCVJ/",
+    "icon": "icon-[mdi--certificate]"
+  },
+  {
+    "title": "Curso de Python",
+    "entity": "Udemy",
+    "certificationDate": "13/06/2019",
+    "link": "https://www.udemy.com/certificate/UC-NWUB5WM3/",
+    "icon": "icon-[mdi--certificate]"
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "role": "Junior System Engineer",
+    "company": "Indra Systems",
+    "client": "SURA S.A",
+    "description": "Consultoría de mantenimiento en un proyecto realizado en framework ASP.NET, con el lenguaje de programación C# y la base de datos SQL Server.",
+    "responsabilities": [
+      "Desarrollar requerimientos de actualización para la aplicación.",
+      "Desarrollar requerimientos de base de datos.",
+      "Comunicación con el product owner para discutir y encontrar soluciones."
+    ],
+    "period" :{
+      "from": "05/03/2018",
+      "to": "30/06/2019"
+    },
+    "techs": ["ASP.NET MVC", "Javascript", "Microsoft SQL Server", "TortouseSVN"]
+  },
+  {
+    "role": "Junior System Engineer",
+    "company": "Indra Systems",
+    "client": "Scotiabank",
+    "description": "Consultoría y mantenimiento de un proyecto finalizado, que se migró desde un proyecto hecho en ASP clásico a ASP.NET CORE 2.1.",
+    "responsabilities": [
+      "Solvencia de errores en el proyecto finalizado con el propósito de implementarlo en un entorno de producción.",
+      "Mejora de rendimiento en base de datos.",
+      "Resolución de errores en backend y frontend",
+      "Mantenimiento del proyecto en ASP Clásico"
+    ],
+    "period" :{
+      "from": "01/10/2020",
+      "to": "29/10/2021"
+    },
+    "techs": ["ASP.NET Core 2.1", "Javascript", "Microsoft SQL Server", "ASP Classic", "GIT"]
+  },
+  {
+    "role": "Fullstack Developer",
+    "company": "Duemint SPA",
+    "client": "Duemint",
+    "description": "Duemint es una startup con el objetivo de crear una plataforma SaaS Fintech, con automatización en la recolección de facturas y una variedad de otros servicios con el fin de resolver la liquidez del dinero.",
+    "responsabilities": [
+      "Realización de actualizaciones periódicas en la aplicación para abordar problemas relacionados con errores y solicitudes de los clientes.",
+      "Resolución de requisitos tanto en el backend como en el frontend",
+      "Gestión de servicios y mejoras del rendimiento para satisfacer la creciente demanda de usuarios y datos",
+      "Automatizamos procesos utilizando tecnologías de Scrapper (Playwright)"
+    ],
+    "period" :{
+      "from": "21/11/2021",
+      "to": "01/08/2022"
+    },
+    "techs": ["Docker", "PHP 8", "Kubernetes", "Linux", "MySQL", "NestJS", "Playwright", "Symphony", "MongoDB", "GIT"]
+  },
+  {
+    "role": "Software Architect",
+    "company": "NTT DATA",
+    "client": "Clínica Alemana de Santiago S.A",
+    "description": "Migración de una aplicación de escritorio WPF, a una aplicación web con arquitectura de microservicios, microfrontends y metodologías DevOps para el despliegue continuo de aplicaciones.",
+    "responsabilities": [
+      "Desarrollo de un microservicio seguro para cifrar y firmar archivos PDF.",
+      "Identificación y corrección de errores en una biblioteca microfrontend en TypeScript, mejorando estabilidad y rendimiento.",
+      "Implementación de despliegue dual para una aplicación en Internet e intranet con Kubernetes.",
+      "Automatización del versionamiento de proyectos y control de confirmaciones con Git.",
+      "Creación automatizada de aplicaciones en Azure AD utilizando la API de Microsoft Graph con Node.js y Jenkins."
+    ],
+    "period" :{
+      "from": "31/07/2022",
+      "to": "30/12/2022"
+    },
+    "techs": ["Angular", "Docker", "Kubernetes", "NestJS", "NodeJS", "Typescript", "Javascript", "Microservice Architecture", "Microfront Architecture", "GIT"]
+  },
+  {
+    "role": "Software Architect",
+    "company": "NTT DATA",
+    "client": "Clínica Alemana de Santiago S.A",
+    "description": "Desarrollo de aplicaciones evolutivas utilizando NodeJS, Angular y NestJS, con implementación continua mediante Jenkins, Docker y Kubernetes. Los principales objetivos incluyen diseñar soluciones innovadoras, brindar apoyo al equipo de desarrollo y optimizar el rendimiento.",
+    "responsabilities": [
+      "Optimización del backend y frontend para equilibrar recursos y mejorar consultas en MongoDB.",
+      "Diseño y optimización de pruebas unitarias utilizando Jest y SonarQ.",
+      "Solución de problemas relacionados con el despliegue continuo en Jenkins.",
+      "Asistencia al equipo de desarrollo en la resolución de problemas y optimización de código.",
+      "Transferencia de conocimientos y retroalimentación constructiva.",
+      "Participación en la actualización de la arquitectura según las necesidades del proyecto.",
+      "Creación de microservicios con NestJS, cumpliendo con estándares y expectativas del cliente."
+    ],
+    "period" :{
+      "from": "01/03/2023",
+      "to": "31/12/2023"
+    },
+    "techs": ["Angular", "NestJS", "NodeJS", "MongoDB", "Javascript", "Typescript", "Docker", "Jest", "SonarQube", "GIT", "Jenkins", "Kubernetes", "Microservice Architecture", "Microfront Architecture"]
+  },
+  {
+    "role": "Tech Lead",
+    "company": "NTT DATA",
+    "client": "AFP Habitat S.A",
+    "description": "El propósito de este proyecto es automatizar todos los procesos involucrados de Habitat en la gestión de pensiones en Chile. Esto incluye garantizar la fidelidad de los fondos para el pago líquido final al cliente.",
+    "responsabilities": [
+      "Revisión y mejora del código para garantizar calidad y rendimiento.",
+      "Asignación de tareas basada en las capacidades del equipo para optimizar eficiencia y resolución de problemas.",
+      "Automatización de despliegues en AWS para agilizar procesos.",
+      "Desarrollo de microservicios y microfrontends para una arquitectura moderna y escalable.",
+      "Creación de consultas en base de datos Oracle para garantizar eficacia en el acceso a los datos.",
+      "Realización de demostraciones con el cliente para obtener retroalimentación y mejorar continuamente el producto."
+    ],
+    "period" :{
+      "from": "01/11/2023",
+      "to": ""
+    },
+    "techs": ["Amazon ECR - EKS", "Angular", "Typescript", "Java 17", "Springboot", "GIT", "Oracle DB", "Microservices", "Microfronts", "Docker", "Kubernetes"]
+  }
+]
